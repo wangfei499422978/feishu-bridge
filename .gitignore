@@ -1,0 +1,7 @@
+.feishu-credentials
+events.log
+answered.txt
+seen_ids.json
+__pycache__/
+*.bak-*
+*.pyc
